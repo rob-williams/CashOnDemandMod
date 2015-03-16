@@ -1,0 +1,1 @@
+A simple mod for Cities: Skylines that adds $50k to the city's cash reserve upon pressing Ctrl+Shift+M.
